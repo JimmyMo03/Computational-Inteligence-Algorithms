@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1DtuFlYbNW3qGr2orcPqcqjw2myTcH22g#scrollTo=mV0Z1X_Ldr7k
+
+LINK TO JUPYTER NOTEBOOK IN CASE THE IPYNB FILE HAS ANY ISSUE
